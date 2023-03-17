@@ -1,4 +1,3 @@
-# test
 # Sylius Bootstrap Template
 
 Sylius bootstrap frontend based on https://github.com/SyliusCrafts/BootstrapTheme, but using latest bootstrap and 
